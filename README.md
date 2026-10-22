@@ -7,7 +7,7 @@ My background includes both wet-lab operations and computational biology. I am p
 ### Technical Skills
 * **Programming:** Python, R, SQL, Unix
 * **Bioinformatics:** Genomic alignment, genome annotation, sequence analysis, BLAST
-* **Data Science:** Machine Learning, PCA, EDA
+* **Data Science:** Machine Learning (Random Forests, SVMs, Neural Networks, K-means), PCA, EDA, survival analysis
 * **Lab Operations:** Automated liquid handlers (Hamilton, Tecan), DNA extraction, Library Prep, LIMS, CLIA/CAP standards
 
 ### Projects
