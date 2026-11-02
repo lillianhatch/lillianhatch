@@ -11,7 +11,7 @@ My background includes both wet-lab operations and computational biology. I am p
 * **Lab Operations:** Automated liquid handlers (Hamilton, Tecan), DNA extraction, Library Prep, LIMS, CLIA/CAP standards
 
 ### Projects
-* **[Extremophile Genomic Analysis](link-to-repo-here):** An end-to-end mGWAS pipeline using `aurora` to identify habitat-associated genomic regions in extremophiles, controlling for phylogenetic confounding.
+* **[Extremophile Genomic Analysis](https://github.com/lillianhatch/Extremophile-Genomic-Analysis):** An end-to-end mGWAS pipeline using `aurora` to identify habitat-associated genomic regions in extremophiles, controlling for phylogenetic confounding.
 * **[Needleman-Wunsch Algorithm Implementation](link-to-repo-here):** A Python implementation of foundational sequence alignment methodology.
 * **[Statistical Data Analysis](link-to-repo-here):** A collection of EDA, PCA, and regression analyses including Kaplan-Meier survival analysis and Cox Proportional Hazards.
 
