@@ -2,7 +2,7 @@
 
 Clinical Data Specialist at Myriad Genetics and recently completed my M.S. in Biological Data Science at Arizona State University. 
 
-My background includes both wet-lab operations and computational biology. I am passionate bridging the gap between physical laboratory processes and data science. In my professional work, I focus on clinical genomics and data validation, while my academic work and personal projects involve genomic analysis, extremophiles, and astrobiology.
+My background includes both wet-lab operations and computational biology. I am passionate bridging the gap between physical laboratory processes and data science. In my professional work, I focus on clinical genomics, health data, and validation, while my academic work and personal projects involve genomic analysis, extremophiles, and astrobiology.
 
 ### Technical Skills
 * **Programming:** Python, R, SQL, Unix
